@@ -1,3 +1,5 @@
 # FileSharing-Paser
 
-For Samsung Quick Share, Private Share and Google Nearby Share parser
+Digital Forensics Research on Android File Sharing application
+
+Analysis for Samsung Quick Share, Private Share and Google Nearby Share 
